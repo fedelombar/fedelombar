@@ -7,7 +7,7 @@
   <a href= "https://github.com/fedelombar/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/fedelombar/">
+  <a href= "https://www.linkedin.com/in/federicolombardozzi/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/fedelombar">
@@ -16,7 +16,7 @@
   <a href= "#">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
-  <a href="https://www.buymeacoffee.com/tallguyjenks">
+  <a href="https://www.ko-fi.com/fedelombar">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
   </a>
   <a href="https://orcid.org/0000-0002-9604-3069">
