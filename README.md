@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fedelombar" alt="fedelombar" /> </p>
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
