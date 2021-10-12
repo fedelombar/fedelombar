@@ -1,37 +1,8 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedelombar" alt="fedelombar" /> </p>
-<!-- Social Section -->
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch  </i>
 
-<p align="center">
-  <a href= "https://github.com/fedelombar/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/federicolombardozzi/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
-  <a href= "https://twitter.com/fedelombar">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
-  </a>
-  <a href= "#">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://www.ko-fi.com/fedelombar">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-  </a>
-  <a href="mailto:lombardozzifa@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
-  </a>
 
-  
-</p>
-
- 
  #### ⭐  Statistics and Languages
 
  <p align="center"> 
