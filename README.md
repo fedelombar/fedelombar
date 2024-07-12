@@ -2,17 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedelombar" alt="fedelombar" /> </p>
 
-
- #### ⭐  Statistics and Languages
-
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedelombar&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="fedelombar" height="165" />
- </p>
-
-
-
-
----
+🔭 I’m currently working on Faneando.
 <!--
 **fedelombar/fedelombar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
